@@ -43,7 +43,7 @@
           "Maple Syrup",
           "Vanilla Base"
         ],
-        "image": "path-to-american-nut-image.svg"
+        "image": "https://vanshgautam03.github.io/23F-JavaScript-02-Week11-main/images/american.svg"
       },
       {
         "name": "Butterscotch",
@@ -54,7 +54,7 @@
           "Toffee Bits",
           "Vanilla Base"
         ],
-        "image": "path-to-butterscotch-image.svg"
+        "image": "https://vanshgautam03.github.io/23F-JavaScript-02-Week11-main/images/butter.svg"
       }
 ]
 }
